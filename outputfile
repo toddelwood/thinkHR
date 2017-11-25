@@ -1,0 +1,39 @@
+{
+  "entries":[
+    {
+      "color":"blue",
+      "firstname":"Todd",
+      "lastname":"Elwood",
+      "phonenumber":"510-555-5151",
+      "zipcode":"94546"
+    },
+    {
+      "color":"black",
+      "firstname":"Michael",
+      "lastname":"Faraday",
+      "phonenumber":"911-675-8655",
+      "zipcode":"94949"
+    },
+    {
+      "color":"yellow",
+      "firstname":"Jamie",
+      "lastname":"Stevenson",
+      "phonenumber":"028-164-6574",
+      "zipcode":"84880"
+    },
+    {
+      "color":"purple",
+      "firstname":"Sam T.",
+      "lastname":"Washington",
+      "phonenumber":"353-791-6380",
+      "zipcode":"85360"
+    }
+  ],
+  "errors":[
+    [
+      2,
+      4,
+      7
+    ]
+  ]
+}
